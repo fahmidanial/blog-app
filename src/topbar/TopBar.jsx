@@ -1,4 +1,5 @@
 import "./topbar.css"
+import turtle5 from '../assets/turtle5.jpg';
 
 export default function TopBar() {
   return (
@@ -20,8 +21,8 @@ export default function TopBar() {
         <div className="topRight">
           <img
               className="topImg" 
-              src="https://th.bing.com/th/id/OIP.7lQjvyq5kmEpkT1XeagfiwHaEK?pid=ImgDet&rs=1" 
-              alt="" 
+              src={turtle5}
+              alt="turtle5"
           />
           <i className="topSearchIcon fa-solid fa-magnifying-glass"></i>
         
