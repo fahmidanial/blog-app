@@ -1,5 +1,5 @@
 import "./topbar.css"
-import turtle5 from '../assets/turtle5.jpg';
+import turtle5 from '../../assets/turtle5.jpg';
 
 export default function TopBar() {
   return (

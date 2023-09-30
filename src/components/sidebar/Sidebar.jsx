@@ -1,5 +1,5 @@
 import "./sidebar.css";
-import turtle3 from '../assets/turtle3.jpg';
+import turtle3 from '../../assets/turtle3.jpg';
 
 export default function Sidebar() {
   return (
